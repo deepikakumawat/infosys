@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="imagePlaceHolderHeight">140dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="textSizeHeading">16sp</dimen>
+    <dimen name="textSizeSubHeading">14sp</dimen>
+    <dimen name="textSizeSmall">12sp</dimen>
+    <dimen name="toolBar">50dp</dimen>
+</resources>
